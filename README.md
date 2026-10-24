@@ -1,68 +1,46 @@
-💻 Problem Solving mit C++
+💻 Problem Solving mit C#
 📌 Projektbeschreibung
 
-Dieses Repository enthält verschiedene Programmieraufgaben und deren Lösungen in C++. Ziel des Projekts ist es, meine Fähigkeiten im logischen Denken, in der Problemlösung und in der Programmierung kontinuierlich zu verbessern.
+Dieses Repository enthält Programmieraufgaben und praktische Übungen in C#. Ziel ist es, meine Fähigkeiten im logischen Denken, in der Problemlösung und in der strukturierten Programmierung zu verbessern.
 
-Die Aufgaben decken grundlegende Programmierkonzepte sowie verschiedene Algorithmen und Datenstrukturen ab.
+Die Lösungen helfen mir dabei, grundlegende Programmierkonzepte besser zu verstehen und diese praktisch anzuwenden.
 
 🎯 Lernziele
-Entwicklung logischen und analytischen Denkens
-Verbesserung der Problemlösungsfähigkeiten
+Verbesserung des logischen Denkens
+Entwicklung von Problemlösungsstrategien
 Anwendung grundlegender Algorithmen
-Umgang mit Datenstrukturen
-Verbesserung der Programmierkenntnisse in C++
+Umgang mit Variablen, Bedingungen und Schleifen
 Schreiben von sauberem und verständlichem Code
+Schrittweise Verbesserung meiner C#-Kenntnisse
 🛠️ Verwendete Technologien
-C++
-Standard Template Library (STL)
-Visual Studio Code
-Git und GitHub
+C#
+.NET
+Visual Studio oder Visual Studio Code
 📚 Themenbereiche
 Variablen und Datentypen
 Bedingungen (if, else, switch)
-Schleifen (for, while)
-Funktionen
+Schleifen (for, while, foreach)
+Funktionen und Methoden
 Arrays und Strings
-Zeiger und Referenzen
-Algorithmen und Sortierverfahren
-Datenstrukturen
-Mathematische Probleme
-🚀 Ausführung der Programme
-Installiere einen C++-Compiler, zum Beispiel GCC oder MinGW.
+Grundlegende Algorithmen
+Mathematische Aufgaben
+▶️ Ausführung
+
+Voraussetzung ist ein installiertes .NET SDK.
+
 Klone das Repository oder lade die Dateien herunter.
-Öffne das Terminal im Verzeichnis der jeweiligen Quelldatei.
-Kompiliere das Programm mit folgendem Befehl:
+Öffne das Projektverzeichnis im Terminal.
+Wechsle in das Verzeichnis, das die .csproj-Datei enthält.
+Führe das Projekt aus:
 bash
-g++ main.cpp -o main
+dotnet run
 
-Führe das Programm aus.
+📈 Lernfortschritt
 
-Unter Windows:
+Ich ergänze dieses Repository schrittweise um weitere Aufgaben und Lösungen, um meine Programmierkenntnisse zu vertiefen und meine Fortschritte zu dokumentieren.
 
-bash
-main.exe
+🎯 Berufliches Ziel
 
+Ich möchte meine technischen Fähigkeiten weiterentwickeln und mich auf eine Ausbildung im IT-Bereich in Deutschland vorbereiten.
 
-Unter Linux:
-
-bash
-./main
-
-📂 Projektstruktur
-text
-Problem-Solving-Cpp/
-├── Basics/
-├── Loops/
-├── Arrays/
-├── Strings/
-├── Functions/
-├── Algorithms/
-└── README.md
-
-📈 Fortschritt
-
-Ich erweitere dieses Repository kontinuierlich um neue Aufgaben und Lösungen, um meine Programmierkenntnisse zu vertiefen und mich fachlich weiterzuentwickeln.
-
-👨‍💻 Über mich
-
-Ich interessiere mich für IT, Softwareentwicklung und logisches Denken. Durch regelmäßiges Üben mit C++ möchte ich meine technischen Fähigkeiten
+Hinweis: Dieses Repository dokumentiert praktische Lernübungen. Die enthaltenen Lösungen dienen der Verbesserung meiner Programmierkenntnisse.
